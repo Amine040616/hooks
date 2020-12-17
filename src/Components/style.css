@@ -1,0 +1,58 @@
+.card{
+    background-color:rgb(165, 190, 190);
+    width: 300px;
+    height: 450px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+    color: rgb(34, 41, 41);
+    font-family: 'Merriweather', serif;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.card p{
+    font-size: small;
+}
+
+.card h4{
+    font-size: medium;
+    font-weight: 700;
+}
+
+.lista{
+    display: flex;
+    flex-direction: row;
+}
+
+.cntnt{
+    width:95%;
+}
+.adding{
+        background-color:rgb(165, 190, 190);
+        width: 600px;
+        height: 150px;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: left;
+        color: rgb(34, 41, 41);
+        font-family: 'Merriweather', serif;
+        margin: 0 auto;
+        font-size: 12pt;
+    }
+.App-header {
+        background-color: #282c34;
+        min-height: 50vh;
+
+        color: white;
+        
+}
+
+.starz img{
+        height: 12px;
+}
+.starz {
+    width: 15px;
+    height: 70px;
+}
