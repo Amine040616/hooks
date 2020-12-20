@@ -7,6 +7,7 @@ function MovieCard ({movi}){
     let arr = [...Array(6).keys()].slice(1);
     let x=movi.rate;
     //alert(movi.rate);
+    
     return(
         <div className='card'>
             <div className='cntnt'>
